@@ -6,8 +6,8 @@ import Contact from './components/Contact.tsx';
 import Navbar from './components/Navbar.tsx';
 import PostDetail from './components/PostDetail.tsx';
 
+// This is the starting file of the application.
 function App() {
-
   return (
     <div className="App">
       <Navbar/>
